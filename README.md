@@ -96,7 +96,3 @@ The `without_recursion.py` file provides an iterative implementation of the Caes
 ## Contributing
 
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your proposed changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
