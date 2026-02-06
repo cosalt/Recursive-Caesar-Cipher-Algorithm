@@ -13,8 +13,6 @@ This repository provides two Python implementations of the Caesar Cipher algorit
 - [Examples](#examples)
   - [recursive-implementation](https://github.com/cosalt/Recursive-Caesar-Cipher-Algorithm/blob/main/with%20recursion.py)
   - [iterative-implementation](https://github.com/cosalt/Recursive-Caesar-Cipher-Algorithm/blob/main/without%20recursion.py)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -93,6 +91,3 @@ The `without_recursion.py` file provides an iterative implementation of the Caes
 1. Open `without_recursion.py`.
 2. Follow the prompts to input your message and shift key.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your proposed changes.
